@@ -1,0 +1,11 @@
+module basic_gates(A,B,AND_G,OR_G,NOT_G,NAND_G,NOR_G,XOR_G,XNOR_G);
+input A,B;
+output AND_G,OR_G,NOT_G,NAND_G,NOR_G,XOR_G,XNOR_G;
+assign AND_G = A & B;
+assign OR_G = A | B;
+assign NOT_G = ~A;
+assign NAND_G = ~(A & B);
+assign NOR_G = ~(A | B);
+assign XOR_G = A ^ B;
+assign XNOR_G = ~(A ^ B);
+endmodule
