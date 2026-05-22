@@ -93,7 +93,8 @@ endmodule
 
 ```
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+
 <img width="605" height="350" alt="Screenshot 2026-05-21 183034" src="https://github.com/user-attachments/assets/89f3e8f0-ae00-4c40-9985-532ca90de1a8" />
 
 
